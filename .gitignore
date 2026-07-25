@@ -5,8 +5,8 @@ logs/
 *.log
 Artifacts/
 .env
-
+mlruns/
 model.pkl
 .vscode/
-
+mlflow.db
 .ipynb_checkpoints/
