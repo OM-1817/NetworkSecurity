@@ -10,5 +10,5 @@ model.pkl
 .vscode/
 mlflow.db
 .ipynb_checkpoints/
-assets/
+
 final_model/
